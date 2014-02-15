@@ -7,7 +7,7 @@
 		"JavaScript": "posts/JavaScript",
 		"算法": "posts/算法",
 		"其他": "posts/其他",
-		"个人日志"："posts/diary",
+		"个人日志": "posts/diary",
 	},	
 	"perpage"   : 10,
 	"template"  : "pithiness",
