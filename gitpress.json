@@ -1,7 +1,7 @@
 {
 	"docs"      : {
 		"关于我的博客": "README.md",
-		"Java": "posts/java",
+		"Java": "posts/Java",
 		"PHP": "posts/PHP",
 		"Go": "posts/Go",
 		"JavaScript": "posts/JavaScript",
@@ -16,7 +16,7 @@
 		"\\.html?$"            : "html",
 		".*"                   : "text"		
 	},
-	"title"  : "Akira's Blog",
+	"title"  : "Dllen's Blog",
 	"comment"  : {"type": "duoshuo", "short_name":"dllen"},
 	"domain-alias"  : [],
 	"friends"  : [
