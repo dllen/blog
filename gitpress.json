@@ -6,7 +6,8 @@
 		"Go": "posts/Go",
 		"JavaScript": "posts/JavaScript",
 		"算法": "posts/算法",
-		"其他": "posts"
+		"其他": "posts/其他",
+		"个人日志"："posts/diary"
 	},	
 	"perpage"   : 10,
 	"template"  : "pithiness",
@@ -18,6 +19,7 @@
 	},
 	"title"  : "Dllen's Blog",
 	"comment"  : {"type": "duoshuo", "short_name":"dllen"},
+	"description" : "小码农的自留地^_^",
 	"domain-alias"  : [],
 	"friends"  : [
 		{
